@@ -24,7 +24,7 @@ is_tired = False
 # print(type(is_tired))
 # print(type(surname))
 
-print(name + " " +surname + " is " + str(age) + " years old and is " + str(height) + " meters tall")
+print(name + " " +surname + " is " + str(age) + " years old and is " + str(height) + " CM tall")
 # print(str(height) + " meters")
 
 
