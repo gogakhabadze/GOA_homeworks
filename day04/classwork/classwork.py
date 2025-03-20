@@ -16,8 +16,8 @@ num = 15
 print(num)
 
 #num = 10  # შეცდომა: `->` არასწორია, ცვლადის მნიშვნელობის მისანიჭებლად გამოიყენება `=`.
-
-
+num = 5
+num -> 10
 
 print(num)
 
@@ -31,5 +31,6 @@ print(balance)
 print(revenue)
 revenue = 300
 
-#Debugging
+#debugging
+
 #debugging არის შეცდომების პოვნა, გასწორება და კოდის გაუმჯობესება.

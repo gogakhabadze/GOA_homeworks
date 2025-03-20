@@ -5,3 +5,4 @@ my_age = 15
 product = favorite_number * my_age
 
 print(product)
+
