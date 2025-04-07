@@ -1,11 +1,7 @@
-# name = str(input("თქვენი სახელი: "))
-# surname = str(input("თქვენი გვარი: "))
+name = str(input("თქვენი სახელი: "))
+surname = str(input("თქვენი გვარი: "))
 
-# age = int(input("თქვენი ასაკი: "))
-
-
-# print(name + " " + surname + " " + str(age))
+age = int(input("თქვენი ასაკი: "))
 
 
-message = "Debugging
-print(message)
+print(name + " " + surname + " " + str(age))
