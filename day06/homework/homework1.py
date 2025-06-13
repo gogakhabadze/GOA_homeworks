@@ -1,9 +1,8 @@
-# მომხმარებლის მონაცემების შეყვანა
-first_name = input("სახელი: ")
-last_name = input("გვარი: ")
+name =  input("სახელი: " )
+lastname = input("გვარი: ")
 age = input("ასაკი: ")
-city = input("ქალაქი: ")
-hobby = input("ჰობი: ")
+location = input("ქალაქი: ")
+hobi = input("ჰობი: ")
 
-# შედეგის გამოტანა
-print(f'სახელი "{first_name} {last_name}", ასაკი "{age}" ვცხოვრობ "{city}"-ში ჰობია"{hobby}".')
+
+print("ჩემი სახელია "  + name + " ჩემი გვარია " + lastname + " ჩემი ასაკია " + age + " მე ვცხოვრობ " + location + " ჩემი ჰობია " + hobi )

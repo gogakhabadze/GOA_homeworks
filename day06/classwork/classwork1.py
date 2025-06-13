@@ -1,14 +1,13 @@
-#რა არის Snake Case?
-#Snake case არის წერის სტილი, როდესაც სიტყვები იყოფა ქვედა ტირეს _ გამოყენებით და ყველა ასო არის პატარა:
+#snake case არის  როცა ორი ან მეტი სიტყვა არის დაკავშირებული "_" -თი მაგალითი: 
+#juice_box
 
 user_name = "John Doe"  # ეს არის snake_case
 
-#რა არის Case Sensitivity?
-#Case Sensitivity ნიშნავს იმას, რომ ასოების დიდსა და პატარა ვარიანტებს (uppercase/lowercase) განსხვავებული მნიშვნელობა აქვთ.
+ 
+#case sensetivity არის როდესაც сase აქვს დიდი მნიშვნელობა.
+ 
+brand = "samsung"
+Brand = "iphone"
 
-name = "John"
-Name = "Doe"
-
-print(name)  # გამოიტანს "John"
-print(Name)  # გამოიტანს "Doe"
-
+print(brand) #samsung -ს გამოიტანს
+print(Brand) #iphone -ს გამოიტანდს

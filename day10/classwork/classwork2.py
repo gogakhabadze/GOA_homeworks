@@ -1,11 +1,9 @@
-# მომხმარებლისგან ორი რიცხვის შემოტანა
-num1 = float(input("შეიყვანეთ პირველი რიცხვი: "))
-num2 = float(input("შეიყვანეთ მეორე რიცხვი: "))
+num1= int (input("რიცხვი1: "))
+num2= int (input("რიცხვი2: "))
 
-# შედარება მკაცრი ოპერატორებით
-print(f"{num1} < {num2}: {num1 < num2}")
-print(f"{num1} > {num2}: {num1 > num2}")
-print(f"{num1} <= {num2}: {num1 <= num2}")
-print(f"{num1} >= {num2}: {num1 >= num2}")
-print(f"{num1} == {num2}: {num1 == num2}")
-print(f"{num1} != {num2}: {num1 != num2}")
+print(num1 == num2)
+print(num1 > num2)
+print(num1 < num2)
+print(num1 >= num2)
+print(num1 <= num2)
+print(num1 != num2)

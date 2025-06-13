@@ -1,10 +1,6 @@
-# მომხმარებლისგან სამი რიცხვის შეყვანა
-num1 = float(input("შეიყვანეთ პირველი რიცხვი: "))
-num2 = float(input("შეიყვანეთ მეორე რიცხვი: "))
-num3 = float(input("შეიყვანეთ მესამე რიცხვი: "))
+product1 = int (input("რიცხვი1: "))
+product2 = int (input("რიცხვი2: "))
+product3 = int (input("რიცხვი3: "))
 
-# საშუალო არითმეტიკულის გამოთვლა
-average = (num1 + num2 + num3) / 3
-
-# შედეგის გამოტანა
-print(f"რიცხვების საშუალო არითმეტიკულია: {average}")
+result= (product1 + product2 + product3  )/3
+print(result)
