@@ -31,3 +31,4 @@ mixed_list = ["hello", 123, 45.6, "world", True, "python"]
 for item in mixed_list:
     if isinstance(item, str):
         print(item.upper()[-3:])
+ 
