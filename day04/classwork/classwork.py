@@ -1,36 +1,33 @@
-num1 = 5
-num2 = 10
-result = num1 + num2
-print(result)
-
+# num1=5
+# num2=6
+# result=num1+num2
+# print(result)
 
 #ქვემოთ მოცემულ კოდში ცვლადი გამოძახებულია მაშინ  როცა ის არ არის შექმნილი.
 
-#print(num)
-#num = 15
-
+# print(num)
+# num = 15
 
 #სწორი ვერსია
 
-num = 15
-print(num)
-
-#num = 10  # შეცდომა: `->` არასწორია, ცვლადის მნიშვნელობის მისანიჭებლად გამოიყენება `=`.
-num = 5
-num -> 10
-
-print(num)
-
-print
+# num = 15
+# print(num)
 
 
-#შეცდომა, რადგან "balance" ცვლადი არ არის შექმნილი
-print(balance)
+# num = 5
+# num -> 10
+
+# num =5
+# num =10
+
+
+
+# print(name)
  
-#ცვლადის გამოძახება ხდება მის გამოცხადებამდე
-print(revenue)
-revenue = 300
 
-#debugging
+# name="goga"
+# print(name)
 
-#debugging არის შეცდომების პოვნა, გასწორება და კოდის გაუმჯობესება.]
+#bug შეცდომა
+
+#debugging შეცდომის გასწორება
